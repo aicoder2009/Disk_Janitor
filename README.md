@@ -1,2 +1,2 @@
 # Jerry Disk Janitor
-An intelligent macOS storage optimizer that learns your file organization habits, detects duplicates and unused apps, and automatically keeps your disk clean and performant using machine learning.
+Jerry is a smart macOS storage assistant that learns how you organize files and keeps your disk clean by removing clutter and duplicates.
